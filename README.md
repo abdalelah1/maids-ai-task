@@ -1,4 +1,4 @@
-.
+
 
 ---
 
@@ -208,6 +208,6 @@ mvn test
 
 The machine learning model is trained using **scikit-learn** with a focus on the four important features. The model predicts the price range and returns values from 0 (low) to 3 (very high).
 
-If you have any questions or need further information, please feel free to reach out at [ataleb271@gmail.com](mailto:ataleb261@gmail.com).
+If you have any questions or need further information, please feel free to reach out at [ataleb261@gmail.com](mailto:ataleb261@gmail.com).
 
 ---
